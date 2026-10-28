@@ -43,4 +43,4 @@ la interfaz de ducktv2 está disponible en español.
 ---
 
 **ducktv2 — tu televisión, tus enlaces, tu formato.**
-(ayudado por claude gemini y mas inteligencias artificiales)
+(ayudado por claude gemini y mas inteligencias artificiales)h
