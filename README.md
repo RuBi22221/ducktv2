@@ -2,6 +2,8 @@
 
 ducktv2 es una aplicación especializada en enlaces de televisión que cuenta con su propio formato de archivo `.vx`, similar a `.m3u`. ambos formatos se interpretan a partir de su contenido interno y están orientados al almacenamiento y procesamiento de listas de enlaces de televisión.
 
+https://ducktv2.martinzaibot.workers.dev/
+
 ## vista previa
 
 ![interfaz de ducktv2](https://i.imgur.com/mKK7sAX.png)
