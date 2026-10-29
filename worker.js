@@ -1,8 +1,8 @@
 // ============================================================================
-//  ducktv  -  TODO EN UN SOLO ARCHIVO JS (Cloudflare Worker)
-//  - La web (HTML + CSS + JS del navegador) está aquí abajo, dentro de este archivo.
-//  - También incluye el proxy de streams (/proxy) y el chequeo (/ping).
-//  Despliegue: pegar este archivo completo en "Edit code" del Worker y pulsar Deploy.
+//  ducktv 
+//  que use para este proyecto?: claude, gemini, chatgpt
+//  la mayorai del proyecto hizo la ia y me da igual
+//  
 // ============================================================================
 
 // ---------- 1) CSS ----------
